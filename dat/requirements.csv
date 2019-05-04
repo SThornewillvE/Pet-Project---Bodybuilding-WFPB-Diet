@@ -1,0 +1,3 @@
+operation,energy_kcal,alcohol_g,caffeine_mg,water_g,carbs_g,fiber_g,starch_g,sugars_g,fat_g,monounsaturated_g,polyunsaturated_g,omega_3_g,omega_6_g,saturated_g,trans_fats_g,cholesterol_mg,protein_g,vit_b1_mg,vit_b2_mg,vit_b3_mg,vit_b5_mg,vit_b6_mg,vit_b12_ug,folate_ug,vit_a_IU,vit_c_mg,vit_d_IU,vit_e_mg,vit_k_ug,calcium_mg,copper_mg,iron_mg,magnesium_mg,manganese_mg,phosphorus_mg,potassium_mg,selenium_ug,sodium_mg,zinc_mg
+max,2641,0,0,3700,130,38,0,0,102.7,0.5,1.1,1.6,1.7,0,0,0,165.1,1.2,1.3,16,5,1.3,2.4,400,3000,90,600,15,120,1000,0.9,8,400,2.3,700,3400,55,1500,11
+min,,,,,,,,,,,,,,20,,,,,,,,,,,,,,,,,,,,,,,,,
